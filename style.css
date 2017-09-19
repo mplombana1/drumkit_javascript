@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(http://wallpaper.pickywallpapers.com/1920x1080/concert.jpg) bottom center;
   background-size: cover;
 }
 body,html {
@@ -33,7 +33,7 @@ body,html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
+  border-color: #e20909;
   box-shadow: 0 0 1rem #ffc600;
 }
 
